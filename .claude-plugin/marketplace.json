@@ -1,0 +1,14 @@
+{
+  "name": "financing",
+  "owner": {
+    "name": "ulshee"
+  },
+  "plugins": [
+    {
+      "name": "financing-slides",
+      "source": "./plugins/financing-slides",
+      "description": "Презентации под ключ в Figma Slides в шаблоне «Манила 30» (Financing): история по Минто, связка рассказа и образа, сжатие текста, сборка из компонентов, графики, схемы и проверка качества."
+    }
+  ],
+  "description": "Плагины направления Financing: презентации в Figma Slides в шаблоне «Манила 30»."
+}

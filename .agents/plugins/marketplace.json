@@ -1,0 +1,20 @@
+{
+  "name": "financing",
+  "interface": {
+    "displayName": "Financing"
+  },
+  "plugins": [
+    {
+      "name": "financing-slides",
+      "source": {
+        "source": "local",
+        "path": "./plugins/financing-slides"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

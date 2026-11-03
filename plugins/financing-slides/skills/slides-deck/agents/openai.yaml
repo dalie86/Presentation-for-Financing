@@ -1,0 +1,11 @@
+interface:
+  display_name: "Презентация в Figma Slides"
+  short_description: "Полный цикл: бриф, история, сборка в шаблоне «Манила 30», проверка"
+  default_prompt: "Используй $slides-deck: собери презентацию в Figma Slides из моих тезисов и цифр."
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "figma"
+      description: "Figma MCP: чтение и запись слайдов в Figma Slides"
+      transport: "streamable_http"
+      url: "https://mcp.figma.com/mcp"

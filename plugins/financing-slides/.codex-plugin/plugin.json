@@ -1,0 +1,36 @@
+{
+  "name": "financing-slides",
+  "version": "0.8.0",
+  "description": "Презентации под ключ в Figma Slides в шаблоне «Манила 30» (Financing): история по Минто, связка рассказа и образа, сжатие текста, сборка из компонентов, графики, схемы и проверка качества.",
+  "author": {
+    "name": "ulshee"
+  },
+  "homepage": "https://github.com/dalie86/Presentation-for-Financing",
+  "repository": "https://github.com/dalie86/Presentation-for-Financing",
+  "keywords": [
+    "figma",
+    "figma-slides",
+    "presentation",
+    "financing",
+    "slides"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Financing Slides",
+    "shortDescription": "Презентации в Figma Slides в шаблоне «Манила 30»",
+    "longDescription": "История по Минто, связка рассказа и образа, сжатие текста под макеты, сборка слайдов из компонентов шаблона «Манила 30» в Figma Slides через Figma MCP, графики, схемы и проверка качества.",
+    "developerName": "ulshee",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/dalie86/Presentation-for-Financing",
+    "defaultPrompt": [
+      "Используй $slides-deck: собери презентацию в Figma Slides из моих тезисов и цифр."
+    ],
+    "brandColor": "#36A0A6"
+  }
+}
