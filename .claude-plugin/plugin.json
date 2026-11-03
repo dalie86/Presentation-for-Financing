@@ -1,7 +1,7 @@
 {
-  "name": "rwave-slides",
-  "version": "0.6.0",
-  "description": "Презентации под ключ в Figma Slides: стиль «Манила 30» (Financing) и R'WAVE, история по Минто, связка рассказа и образа, сжатие текста, сборка из компонентов, графики, схемы и проверка качества.",
+  "name": "financing-slides",
+  "version": "0.7.0",
+  "description": "Презентации под ключ в Figma Slides в шаблоне «Манила 30» (Financing): история по Минто, связка рассказа и образа, сжатие текста, сборка из компонентов, графики, схемы и проверка качества.",
   "author": {
     "name": "ulshee"
   },
@@ -9,7 +9,7 @@
     "figma",
     "figma-slides",
     "presentation",
-    "rwave",
+    "financing",
     "slides"
   ]
 }
