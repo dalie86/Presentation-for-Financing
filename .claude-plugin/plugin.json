@@ -1,7 +1,15 @@
 {
   "name": "rwave-slides",
-  "version": "0.5.0",
-  "description": "Презентации под ключ в шаблоне R'WAVE в Figma Slides: история по Минто, связка рассказа и образа, сжатие текста под макеты, сборка слайдов, графики, схемы и проверка качества.",
-  "author": { "name": "ulshee" },
-  "keywords": ["figma", "figma-slides", "presentation", "rwave", "slides"]
+  "version": "0.6.0",
+  "description": "Презентации под ключ в Figma Slides: стиль «Манила 30» (Financing) и R'WAVE, история по Минто, связка рассказа и образа, сжатие текста, сборка из компонентов, графики, схемы и проверка качества.",
+  "author": {
+    "name": "ulshee"
+  },
+  "keywords": [
+    "figma",
+    "figma-slides",
+    "presentation",
+    "rwave",
+    "slides"
+  ]
 }
