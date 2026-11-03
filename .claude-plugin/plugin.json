@@ -1,0 +1,7 @@
+{
+  "name": "rwave-slides",
+  "version": "0.5.0",
+  "description": "Презентации под ключ в шаблоне R'WAVE в Figma Slides: история по Минто, связка рассказа и образа, сжатие текста под макеты, сборка слайдов, графики, схемы и проверка качества.",
+  "author": { "name": "ulshee" },
+  "keywords": ["figma", "figma-slides", "presentation", "rwave", "slides"]
+}
